@@ -57,7 +57,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 - Jovem aprendiz na área financeira da Marzari Alimentos (desde maio de 2026).
 
 **Atividades**
-- **Viagem técnica a Florianópolis (nov/2026):** visitas à ACATE, Aquarela, Instituto SENAI de Inovação, Sapiens Parque, Audaces, CELTA Sapiens e HostGator.
+- **Viagem técnica a Florianópolis (nov/2026):** visitas à ACATE, Aquarela Analytics, InPETU Hub, Instituto SENAI de Inovação em Sistemas Embarcados, Sapiens Parque, Audaces, CELTA e HostGator.
 - **Ideathon 2026, AMF (out/2026):** campeão com o Viaje Mais.
 - **CodeRace 2026, AMF (jun/2026):** hackathon de 18 horas com a equipe Cerberus. Atuei na pesquisa e na documentação do DryLeaf.
 
