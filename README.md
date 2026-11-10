@@ -25,7 +25,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [Viaje Mais](https://github.com/HenryGodoi/Viaje-Mais) | PWA que vende com desconto as vagas que sobram em passeios da Quarta Colônia (RS). Campeão do Ideathon 2026 | HTML, CSS, JavaScript, Node.js |
-| [Estacionamento de aeronaves](https://github.com/HenryGodoi/Lab-De-Algoritmos-AMF/tree/main/Semana14) | Trabalho final de Algoritmos: vagas, fila de espera, cobrança por diária e gráfico da ocupação | Python, matplotlib |
+| [Estacionamento de aeronaves](https://github.com/HenryGodoi/Lab-De-Algoritmos-AMF/tree/main/Semana14) | Trabalho de Algoritmos: vagas, fila de espera, cobrança por diária e gráfico da ocupação | Python, matplotlib |
 
 <h2 align="center"><img src="img/espiral.webp" width="24" alt=""> Atividades de aula</h2>
 
