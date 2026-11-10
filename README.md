@@ -6,7 +6,7 @@
 
 <p align="center"><b>Estudante de Sistemas de Informação</b></p>
 
-<p align="center">Procuro a minha primeira oportunidade no mercado de tecnologia, de preferência como desenvolvedor, com o Python como ponto de partida.</p>
+<p align="center">Procuro a minha primeira oportunidade no mercado de tecnologia, de preferência como desenvolvedor.</p>
 
 <h2 align="center"><img src="img/estrela.webp" width="24" alt=""> Sobre mim</h2>
 
