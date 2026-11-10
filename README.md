@@ -65,7 +65,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 
 <p align="center">
   <a href="mailto:henrygodoi4@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=e8262b" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/henry-azambuja-godoi/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/henry-azambuja-godoi/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHJlY3QgeD0nMScgeT0nMScgd2lkdGg9JzIyJyBoZWlnaHQ9JzIyJyByeD0nMycgZmlsbD0nI2U4MjYyYicvPjxyZWN0IHg9JzUnIHk9JzkuNScgd2lkdGg9JzMnIGhlaWdodD0nOScgZmlsbD0nIzAwMCcvPjxjaXJjbGUgY3g9JzYuNScgY3k9JzYuNCcgcj0nMS44JyBmaWxsPScjMDAwJy8%2BPHBhdGggZD0nTTEwLjUgOS41aDIuOHYxLjNjLjYtMSAxLjctMS42IDMtMS42IDIuMyAwIDMuMiAxLjUgMy4yIDR2NS4zaC0zdi00LjdjMC0xLjItLjQtMS45LTEuNC0xLjlzLTEuNi43LTEuNiAxLjl2NC43aC0zeicgZmlsbD0nIzAwMCcvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
   <a href="https://henrygodoi.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-e8262b?style=for-the-badge&logo=github&logoColor=000000" alt="Portfólio"></a>
 </p>
 
