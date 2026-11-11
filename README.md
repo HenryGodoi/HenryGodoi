@@ -38,11 +38,9 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=e8262b" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=e8262b" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=e8262b" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css&logoColor=e8262b" alt="CSS">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=e8262b" alt="Node.js">
-  <img src="https://img.shields.io/badge/Arduino%20%28C%2B%2B%29-000000?style=flat&logo=arduino&logoColor=e8262b" alt="Arduino (C++)">
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino&logoColor=e8262b" alt="Arduino">
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=e8262b" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=e8262b" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=e8262b" alt="Figma">
