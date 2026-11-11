@@ -34,7 +34,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 - [Código Morse por infravermelho](https://github.com/HenryGodoi/Trabalho_G2-Codigo_Morse): dois Arduinos trocando mensagens em Morse por luz infravermelha, com interface web.
 - [Controle de processo com potenciômetros](https://github.com/HenryGodoi/A1---Henry), [portões com servo motor](https://github.com/HenryGodoi/Atividade-com-botoes) e [LED RGB com potenciômetros](https://github.com/HenryGodoi/RGB-e-Potenci-metros): exercícios de Arduino no Tinkercad.
 
-<h2 align="center"><img src="img/estrela-3.webp" width="24" alt=""> Tecnologias</h2>
+<h2 align="center"><img src="img/estrela-3.webp" width="24" alt=""> Habilidades e Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=e8262b" alt="Python">
