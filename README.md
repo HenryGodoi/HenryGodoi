@@ -48,6 +48,8 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
   <img src="https://img.shields.io/badge/Tinkercad-000000?style=flat&logo=tinkercad&logoColor=e8262b" alt="Tinkercad">
 </p>
 
+<p align="center">Conhecimento básico em design e front-end.</p>
+
 <h2 align="center"><img src="img/estrela.webp" width="24" alt=""> Trajetória</h2>
 
 **Formação**
