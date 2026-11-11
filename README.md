@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Henry Godoi. Python, JavaScript e Claude Pro.">
+  <img src="banner.png" alt="Henry Godoi. Python e Design AI.">
 </p>
 
 <h1 align="center">Olá, eu sou o Henry Godoi</h1>
@@ -30,7 +30,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 <h2 align="center"><img src="img/espiral.webp" width="24" alt=""> Atividades de aula</h2>
 
 - [Lab de Algoritmos](https://github.com/HenryGodoi/Lab-De-Algoritmos-AMF): exercícios de Python organizados por semana.
-- [Código Morse por infravermelho](https://github.com/HenryGodoi/Trabalho_G2-C-digo_Morse): dois Arduinos trocando mensagens em Morse por luz infravermelha, com interface web.
+- [Código Morse por infravermelho](https://github.com/HenryGodoi/Trabalho_G2-Codigo_Morse): dois Arduinos trocando mensagens em Morse por luz infravermelha, com interface web.
 - [Controle de processo com potenciômetros](https://github.com/HenryGodoi/A1---Henry), [portões com servo motor](https://github.com/HenryGodoi/Atividade-com-botoes) e [LED RGB com potenciômetros](https://github.com/HenryGodoi/RGB-e-Potenci-metros): exercícios de Arduino no Tinkercad.
 
 <h2 align="center"><img src="img/estrela-3.webp" width="24" alt=""> Tecnologias</h2>
@@ -45,7 +45,6 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=e8262b" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=e8262b" alt="GitHub">
   <img src="https://img.shields.io/badge/Tinkercad-000000?style=flat&logo=tinkercad&logoColor=e8262b" alt="Tinkercad">
-  <img src="https://img.shields.io/badge/Claude%20Pro-000000?style=flat&logo=claude&logoColor=e8262b" alt="Claude Pro">
 </p>
 
 <h2 align="center"><img src="img/estrela.webp" width="24" alt=""> Trajetória</h2>
