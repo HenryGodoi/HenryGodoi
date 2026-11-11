@@ -26,7 +26,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
 |---|---|---|
 | [Viaje Mais](https://github.com/HenryGodoi/Viaje-Mais) | PWA que vende com desconto as vagas que sobram em passeios da Quarta Colônia (RS). Campeão do Ideathon 2026 | HTML, CSS, JavaScript, Node.js |
 | [Estacionamento de aeronaves](https://github.com/HenryGodoi/Lab-De-Algoritmos-AMF/tree/main/Semana14) | Trabalho de Algoritmos: vagas, fila de espera, cobrança por diária e gráfico da ocupação | Python, matplotlib |
-| [Agendamentos CEEAM](https://github.com/luiz-alawi/ceeam) | Sistema de reserva das quadras do Centro Esportivo da AMF, [no ar](https://ceeam.vercel.app). Fiz o front-end e o UI/UX no Figma; o back-end é do Luiz Alawi | Figma, Next.js, React, TypeScript, Tailwind CSS |
+| [Agendamentos CEEAM](https://github.com/luiz-alawi/ceeam) | Sistema de reserva das quadras do Centro Esportivo da AMF, [no ar](https://ceeam.vercel.app). Fiz o front-end e o UI/UX no Figma; o back-end é do Luiz Alawi | Figma, Next.js, React, TypeScript |
 
 <h2 align="center"><img src="img/espiral.webp" width="24" alt=""> Atividades de aula</h2>
 
