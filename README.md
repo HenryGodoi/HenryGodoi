@@ -44,6 +44,7 @@ Na faculdade, faço exercícios de **Python** em Algoritmos e projetos de **Ardu
   <img src="https://img.shields.io/badge/Arduino%20%28C%2B%2B%29-000000?style=flat&logo=arduino&logoColor=e8262b" alt="Arduino (C++)">
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=e8262b" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=e8262b" alt="GitHub">
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=claude&logoColor=e8262b" alt="Claude">
   <img src="https://img.shields.io/badge/Tinkercad-000000?style=flat&logo=tinkercad&logoColor=e8262b" alt="Tinkercad">
 </p>
 
